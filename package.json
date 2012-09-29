@@ -5,5 +5,10 @@
   "description": "a sample.",
   "dependencies": {
     "asyncall": "git://github.com/kumatch/asyncall.git"
+  },
+  "jam": {
+    "dependencies": {
+      "asyncall": "gh:kumatch/asyncall"
+    }
   }
 }
