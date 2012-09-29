@@ -1,0 +1,8 @@
+{
+  "name": "sampels-nop",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "asyncall": "git://github.com/kumatch/asyncall.git"
+  }
+}
