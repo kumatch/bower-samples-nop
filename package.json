@@ -8,7 +8,7 @@
   },
   "jam": {
     "dependencies": {
-      "gh:kumatch/asyncall": "*"
+      "gh:kumatch/asyncall": null
     }
   }
 }
